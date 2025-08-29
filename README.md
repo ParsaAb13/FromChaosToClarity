@@ -38,7 +38,7 @@ install.packages("ggplot2")
 
 
 
-Results
+## Results
 
 Pearson correlation: 0.68 (p < 0.001)
 
@@ -47,6 +47,6 @@ Linear regression shows a significant positive relationship between depression a
 Visualizations included in the repository show scatter plots with regression lines.
 
 
-Conclusion
+## Conclusion
 
 This project highlights a notable correlation between depression and internet addiction, providing insights for psychological research and interventions.
