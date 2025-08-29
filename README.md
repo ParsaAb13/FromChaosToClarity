@@ -23,7 +23,7 @@ The dataset `BDIIAT.xlsx` contains the following columns:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FromChaosToClarity.git
+   git clone https://github.com/ParsaAb13/FromChaosToClarity.git
 
 2. Open R and set working directory to the project folder.
 
