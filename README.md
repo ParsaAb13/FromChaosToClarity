@@ -47,15 +47,6 @@ Linear regression shows a significant positive relationship between depression a
 Visualizations included in the repository show scatter plots with regression lines.
 
 
-##Scatter plot
-![Scatter Plot](<img width="361" height="351" alt="Rplot01" src="https://github.com/user-attachments/assets/a1520d4c-4630-4a52-a8ad-d866eaaa7656" />)
-
-###Histogram 
-![Histogram of BDI](<img width="361" height="351" alt="Rplot02" src="https://github.com/user-attachments/assets/39e14b27-a31d-45ae-9c4f-1e4fe9c0f8d4" />)
-![Histogram of IAT](<img width="361" height="351" alt="Rplot" src="https://github.com/user-attachments/assets/abf84227-2639-4363-9a2d-37902d0b8957" />)
-
-
-
 Conclusion
 
 This project highlights a notable correlation between depression and internet addiction, providing insights for psychological research and interventions.
